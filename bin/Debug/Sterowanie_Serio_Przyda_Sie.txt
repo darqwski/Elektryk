@@ -1,0 +1,42 @@
+A wiêc tak:
+
+Na korytarzu:
+
+Zatrudniamy wie¿e te kolorowe na dole enterem;
+Do Handlarzy i sali wchodzimy enterem, aktualnie zrobione drugie dzia³aj¹ ale niczym sie nei ró¿ni¹ póki co
+
+U handlarzy:
+
+strzalkami ruszamy kursorem;
+enter kupujemy dany itemek
+w EQ gracza enter sprzedajemy a ubieramy prawym shihtem
+¿eby coœ zdj¹æ wciskamy 1,2,3,4,5,6 ka¿dy do innego typu itemka
+to u Grzesia
+U Wulfstana maksujemy staty ju¿ myszk¹
+U kowala ulepszamy itemki po najechaniu kursorem, do +9 jak w metinie
+
+JE¯ELI KURSOR JEST NA POTIONKU!!
+mo¿emy go ustawic na szybko wybierany na dole 1,2,3,4,5,6
+Ju¿ sie tego zdj¹æ nie da, tak¿e sory
+
+Komunikaty usuwasie esc
+SALA:
+
+Fala startuje enterem;
+strzelanie! - O
+Prze³adowanie - P
+Ubieranie miecza F2		//Miecza nie prze³adujesz, 
+
+je¿eli któreœ jest krzywo za³o¿one to poprostu odwróæ gracz to sie ustawi;
+
+Ubieranie pistolu - F1
+Furia w³¹cz F5
+Furia wy³¹cz F6
+Niewidzialnoœæ w³¹cz F7 
+Niewidzalnoœæ wy³¹cz F8
+Itemki na interfejsie tak jak przypisaliœmy 1,2,3,4,5,6
+
+F11 dzia³a na korytarzu i na sali, zobaczcie sobie co robi
+f12 wy³¹cza na sali
+
+B³êdy i bugi zg³aszaæ;
